@@ -1,0 +1,63 @@
+body{
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        margin: 0;
+        background-color: #141414;
+}
+.container{
+    width: 30%;
+    background-color: #1f1f1f;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5% auto;
+    min-width: 301px;
+    padding-bottom: 15px;
+}
+.profile-img img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 25px;
+}
+.contants button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-left: 10%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #333333; 
+    border: none;
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: white;
+}
+.contants button:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+/* .contants a:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+} */
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+.city{
+   color: hsl(75, 94%, 57%); 
+}
+a{
+    text-decoration-line: none;
+    color: white;
+}
+.flex{
+    text-align: center;
+   
+    
+}
